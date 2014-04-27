@@ -15,6 +15,12 @@ Qiita に記事を書いた。
 [Qiitaで絵文字が使えるっていま知ったので使ってみた]
 (http://qiita.com/hkusu/items/a17c59186088b4ae3d2d)
 
+[Githubで絵文字を簡単に使おう]
+(http://qiita.com/ongaeshi/items/307722f08c15526490aa)
+
+[EMOJI CHEAT SHEET]
+(http://www.emoji-cheat-sheet.com/)
+
 # 絵文字一覧
 
 :bowtie: bowtie 
