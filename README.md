@@ -1,9 +1,14 @@
-# 絵文字
+# QiitaとGitHubで使える絵文字って面白いね
 
 絵文字が使えるんだ。面白いね。
 記事が出ていたので僕も試してみた。
 
 `:smile:` で :smile: が出てくる。
+
+Qiita に記事を書いた。
+
+[QiitaとGitHubで使える絵文字って面白いね]
+(http://qiita.com/LightSpeedC/items/1653cfc2aaf3cf52f7a8)
 
 # 参考文献
 
